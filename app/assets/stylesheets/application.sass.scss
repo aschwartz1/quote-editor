@@ -2,6 +2,7 @@
 @import "mixins/media";
 
 // Configuration
+@import "config/animations";
 @import "config/variables";
 @import "config/reset";
 
@@ -9,6 +10,7 @@
 @import "components/btn";
 @import "components/error_message";
 @import "components/form";
+@import "components/flash";
 @import "components/visually_hidden";
 @import "components/quote";
 @import "components/turbo_progress_bar";
