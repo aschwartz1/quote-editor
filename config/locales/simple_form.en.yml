@@ -15,7 +15,7 @@ en:
         name: Name
         description: Description
         quantity: Quantity
-        unit_price: Unit Price
+        unit_price: Unit price
       line_item_date:
         date: Date
 
